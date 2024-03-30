@@ -1,0 +1,68 @@
+#titlesection {
+    color: white;
+    height: 10%;
+    background-color: black;
+}
+
+.img1 {
+    size: 40px;
+    height: 40px;
+    float: left;
+}
+
+#menu {
+
+    color: black;
+    height: 100%;
+    float: left;
+    background: linear-gradient(to bottom, grey, white);
+
+}
+
+
+a { font-weight: bold;
+        text-align: left;
+    color: black;
+    text-decoration-line: none;
+}
+
+li {
+    border-bottom: black solid 1px;
+    padding: 20px;
+
+}
+
+ul {
+    list-style: none;
+float: left;
+
+}
+
+#rightmenu>h1 {
+
+    color: white;
+    background: linear-gradient(to right, rgb(85, 85, 85), white);
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    padding-left: 2px;
+    font-size: medium;
+    padding: 5px; text-indent: 5px;
+}
+
+#lowerdiv {
+    background-color: black;
+    width: 5px;
+    color: white;
+}
+
+img {
+    float: left;
+}
+
+#footer{ 
+    clear: left;
+    background-color: black;
+    p{
+        color: white;
+        padding: 5px;
+    }
+}
